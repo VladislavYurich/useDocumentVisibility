@@ -1,16 +1,14 @@
-#useDocumentVisibility
+# useDocumentVisibility
 
-###Install:
-```javascript
+### Install:
 npm i @vladsilav68/document-visibility
-```
 
-###Import:
+### Import:
 ```javascript
 import useDocumentVisibility  from "@vladsilav68/document-visibility"
 ```
 
-###For example:
+### For example:
 ```javascript
 import { useEffect} from "react";
 import useDocumentVisibility  from "@vladsilav68/document-visibility"
