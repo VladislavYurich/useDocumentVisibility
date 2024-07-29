@@ -1,6 +1,6 @@
 {
   "name": "@vladsilav68/document-visibility",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "document-visibility hook",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -16,8 +16,8 @@
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/plugin-terser": "^0.4.4",
     "@rollup/plugin-typescript": "^11.1.6",
-    "@types/react": "^18.3.3",
-    "react": "^18.3.1",
+    "@types/react": ">=16.8.0",
+    "react": ">=16.8.0",
     "rollup-plugin-dts": "^6.1.1",
     "rollup-plugin-peer-deps-external": "^2.2.4",
     "tslib": "^2.6.3",

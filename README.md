@@ -1,7 +1,9 @@
 # useDocumentVisibility
 
 ### Install:
+```javascript
 npm i @vladsilav68/document-visibility
+```
 
 ### Import:
 ```javascript
